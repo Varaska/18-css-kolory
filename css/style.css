@@ -1,0 +1,15 @@
+h1 {
+   color: #ff0000;
+}
+
+body {
+    color: #faebd6
+}
+
+p:first-of-type {
+    color: #a42423
+}
+
+p:last-of-type  {
+    color: #00008f
+}
